@@ -1,4 +1,4 @@
-package com.ancbro.bunny_prisoner_locating;
+package com.acbrown.bunny_prisoner_locating;
 
 public class Solution {
 
